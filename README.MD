@@ -1,4 +1,6 @@
-﻿# Stu-Exec
+# koxx u make me so hard
+
+# Stu-Exec
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/koxx12-dev/StuExec/total?style=flat-square)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/koxx12-dev/StuExec/latest/total?style=flat-square)
 
